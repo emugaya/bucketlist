@@ -1,5 +1,5 @@
 
-# Bucketlist Massape
+# Bucketlist API Frontend
 This is an Angular 2 impelementation of the frontend of the [Buckelist API](https://github.com/emugaya/BucketlistsAPI) hosted on Heroku on this [Link](https://emugaya-bucketlist.herokuapp.com/api/v1/). 
 
 This Project was genearated by [Angular CLI](https://cli.angular.io/).
